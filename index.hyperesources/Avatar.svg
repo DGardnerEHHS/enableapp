@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="32px" viewBox="0 0 28 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>Avatar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="Menu" transform="translate(-18.000000, -531.000000)" fill="#FFFFFF">
+            <path d="M32,531.666667 C33.4666667,531.666667 34.6666667,532.866667 34.6666667,534.333333 C34.6666667,535.8 33.4666667,537 32,537 C30.5333333,537 29.3333333,535.8 29.3333333,534.333333 C29.3333333,532.866667 30.5333333,531.666667 32,531.666667 L32,531.666667 Z M44,541 L36,541 L36,558.333333 L33.3333333,558.333333 L33.3333333,550.333333 L30.6666667,550.333333 L30.6666667,558.333333 L28,558.333333 L28,541 L20,541 L20,538.333333 L44,538.333333 L44,541 L44,541 Z" id="Avatar"></path>
+        </g>
+    </g>
+</svg>

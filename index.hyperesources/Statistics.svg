@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>Statistics</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="Menu" transform="translate(-79.000000, -531.000000)" fill="#FFFFFF">
+            <path d="M83,555.769231 L107.615385,555.769231 L107.615385,557 L83,557 L83,555.769231 Z M85.4615385,547.769231 L90.3846154,547.769231 L90.3846154,555.769231 L85.4615385,555.769231 L85.4615385,547.769231 Z M92.8461538,533 L97.7692308,533 L97.7692308,555.769231 L92.8461538,555.769231 L92.8461538,533 Z M100.230769,543.461538 L105.153846,543.461538 L105.153846,555.769231 L100.230769,555.769231 L100.230769,543.461538 Z" id="Statistics"></path>
+        </g>
+    </g>
+</svg>

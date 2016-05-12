@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="25px" viewBox="0 0 42 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>Chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="Menu" transform="translate(-203.000000, -534.000000)" fill="#FFFFFF">
+            <path d="M210.080631,553 L232.157596,553 C236.57429,553 240.15,549.41729 240.15,544.997794 L240.15,544.002206 C240.15,539.58449 236.571679,536 232.157596,536 L217.494291,536 C213.077597,536 209.501887,539.58271 209.501887,544.002206 L209.501887,550.189623 L207,553 L210.080631,553 Z M219.509434,546.074074 C220.200311,546.074074 220.760377,545.510284 220.760377,544.814815 C220.760377,544.119345 220.200311,543.555556 219.509434,543.555556 C218.818557,543.555556 218.258491,544.119345 218.258491,544.814815 C218.258491,545.510284 218.818557,546.074074 219.509434,546.074074 Z M225.138679,546.074074 C225.829556,546.074074 226.389623,545.510284 226.389623,544.814815 C226.389623,544.119345 225.829556,543.555556 225.138679,543.555556 C224.447802,543.555556 223.887736,544.119345 223.887736,544.814815 C223.887736,545.510284 224.447802,546.074074 225.138679,546.074074 Z M230.767925,546.074074 C231.458801,546.074074 232.018868,545.510284 232.018868,544.814815 C232.018868,544.119345 231.458801,543.555556 230.767925,543.555556 C230.077048,543.555556 229.516981,544.119345 229.516981,544.814815 C229.516981,545.510284 230.077048,546.074074 230.767925,546.074074 Z" id="Chat"></path>
+        </g>
+    </g>
+</svg>
