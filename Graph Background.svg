@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="320px" height="198px" viewBox="0 0 320 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>Graph Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.9352679%" id="linearGradient-1">
+            <stop stop-color="#23B962" offset="0%"></stop>
+            <stop stop-color="#53DC8D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="86" width="320" height="198"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Graph" transform="translate(0.000000, -86.000000)">
+            <g id="Graph-Background">
+                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
